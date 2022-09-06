@@ -14,6 +14,7 @@
               </div>
               <div className='text-xl pt-5 '>
                 Russian | Bahasa Indonesia
+                {/* Will Change this one. */}
               </div>
             </div>
 
@@ -148,7 +149,7 @@
         {/* About us section end */}
 
         {/* Footer section start */}
-        <div className='mt-10 p-10 md:p-10'>
+        {/* <div className='mt-10 p-10 md:p-10'>
           <div className='p-2 md:px-44 divide-y-2'>
             <strong className='text-[#0E2144] font-bold font-mono'> DISCLAIMERS </strong>
             <div className='flex align-items-center justify-between mt-5 pt-5 '>
@@ -161,7 +162,7 @@
               <div></div> 
             </div>
           </div>
-        </div>
+        </div> */}
         {/* Footer section end */}
       </>
     )
